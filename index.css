@@ -1,0 +1,178 @@
+*
+{
+    margin: 0px 0.2px;
+}
+nav
+{
+    background:transparent;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+}
+label.portfolio
+{
+    color:white;
+    font-size: 35px;
+    line-height:60px;
+    padding: 0 40px;
+    font-family: monospace;
+    font-weight: bold;
+}
+nav ul
+{
+    float: right;
+    margin-right: 40px;
+    
+}
+
+nav ul li
+{   
+    display: inline-block;
+    line-height: 30px;
+    margin:0 10px;
+    
+} 
+nav ul li a
+{
+    color:white;
+    font-size: 25px;
+    font-family: monospace;
+    
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+   
+    
+}
+img{
+    width: 100%;
+    height: 100%;
+    object-fit:cover;
+    position: absolute;
+   
+    
+    
+}
+#halo{
+    background-color: aqua;
+  height: 660px;
+ background-image: url('halo.jpg'); 
+ background-size:cover; 
+ background-position: center;
+}
+
+button
+{
+    height: 60px;
+    width: 120px;
+    margin-top: 500px;
+    margin-left: 1100px;
+    color: rgb(6, 8, 8);
+    background-color:rgb(146, 85, 210);
+}
+#text1{
+    width: 77%;
+    height: 200px;
+    background-color:transparent;
+    position:relative;
+    margin: -160px 20px;
+    color: white;
+    border: 1px solid white; 
+   padding: 10px;
+}
+#gow{
+    background-color: aqua;
+  height: 660px;
+ background-image: url('god.png'); 
+ background-size:contain; 
+ background-position: center;
+ 
+ }
+ button
+{
+    height: 60px;
+    width: 120px;
+    margin-top: 500px;
+    margin-left: 1100px;
+    color: rgb(6, 8, 8);
+    background-color:rgb(146, 85, 210);
+}
+#text2{
+    width: 77%;
+    height: 200px;
+    background-color:transparent;
+    position:relative;
+    margin: -180px 20px;
+    color:white ;
+    border: 3px solid white; 
+    padding: 10px;
+  
+}
+#pop{
+    background-color: aqua;
+  height: 660px;
+ background-image: url('pop.jpg'); 
+ background-size:cover; 
+ background-position: center;
+}
+#text3{
+    width: 77%;
+    height: 200px;
+    background-color:transparent;
+    position:relative;
+    margin: -180px 20px;
+    color:white;
+    border: 1px solid white; 
+    padding: 5px;
+  
+}
+button
+{
+    height: 60px;
+    width: 120px;
+    margin-top: 500px;
+    margin-left: 1100px;
+    color: rgb(6, 8, 8);
+    background-color:rgb(146, 85, 210);
+}
+
+#nfs{
+    background-color: aqua;
+  height: 660px;
+ background-image: url('nfs.webp'); 
+ background-size:contain; 
+ background-position: center;
+}
+button
+{
+    height: 60px;
+    width: 120px;
+    margin-top: 500px;
+    margin-left: 1100px;
+    color: white;
+    background-color:orangered;
+}
+#text4{
+    width: 70%;
+    height: 200px;
+    background-color:transparent;
+    position:relative;
+    margin: -180px 20px;
+    color:white;
+    border: 1px solid white; 
+    padding: 10px;
+    left:77px;
+    border-radius: 5px; 
+}
+.membership-button {
+    background-color: #e74c3c; 
+    padding: 10px 20px;
+    border-radius: 5px; 
+  }
+  
+  .membership-button a {
+    color: white; 
+  }
+  nav a:hover {
+    color:rgb(131, 17, 238);
+  }
